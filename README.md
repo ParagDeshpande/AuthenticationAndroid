@@ -12,3 +12,26 @@ And finally
 6. Delete account
 
 # How it Works
+#### `Register` new user
+
+<img align="left" width="200" height="360" src="https://github.com/ParagDeshpande/AuthenticationAndroid/blob/master/app/src/main/res/drawable/register.png">
+
+<br/>
+
+#### Check the new user in Firebase
+<p align="center">
+  <img width="460" height="300" src="https://github.com/ParagDeshpande/AuthenticationAndroid/blob/master/app/src/main/res/drawable/added_user.png">
+</p>
+
+#### `Log-in` with your credentials
+
+<img align="left" width="200" height="360" src="https://github.com/ParagDeshpande/AuthenticationAndroid/blob/master/app/src/main/res/drawable/login.png">
+
+#### User can chage email id and password 
+
+<img align="left" width="200" height="360" src="https://github.com/ParagDeshpande/AuthenticationAndroid/blob/master/app/src/main/res/drawable/change_email.png">
+
+#### Finally user can `Sign-Out` 
+
+<img align="left" width="200" height="360" src="https://github.com/ParagDeshpande/AuthenticationAndroid/blob/master/app/src/main/res/drawable/main_screen.png">
+
