@@ -18,7 +18,7 @@ And finally
 
 <br/>
 
-#### Check the new user in Firebase
+#### Check the new user in Firebase 
 <p align="center">
   <img width="460" height="300" src="https://github.com/ParagDeshpande/AuthenticationAndroid/blob/master/app/src/main/res/drawable/added_user.png">
 </p>
